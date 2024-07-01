@@ -1,0 +1,19 @@
+# .gitignore
+
+# 환경 설정 파일
+.env
+
+# 파이썬 가상 환경
+venv/
+
+# 파이썬 캐시 파일
+__pycache__/
+
+# 파이썬 컴파일된 파일
+*.pyc
+
+# Jupyter notebook 체크포인트 파일
+.ipynb_checkpoints/
+
+# 캡쳐된 프레임 파일
+captured_frame.jpg
